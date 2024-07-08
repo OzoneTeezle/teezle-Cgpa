@@ -14,7 +14,7 @@ namespace MyCgpaCalculator
             Console.WriteLine("Enter your first namee:");
             firstName = Console.ReadLine();
 
-            Console.WriteLine("Enter your last name:");
+            Console.WriteLine("Enter your last namee:");
             lastName = Console.ReadLine();
 
             Console.WriteLine("Enter your Matric number:");
