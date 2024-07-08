@@ -1,0 +1,16 @@
+C:\Users\Hp\source\repos\MyCgpaCalculator\MyCgpaCalculator\bin\Debug\net5.0\MyCgpaCalculator.exe
+C:\Users\Hp\source\repos\MyCgpaCalculator\MyCgpaCalculator\bin\Debug\net5.0\MyCgpaCalculator.deps.json
+C:\Users\Hp\source\repos\MyCgpaCalculator\MyCgpaCalculator\bin\Debug\net5.0\MyCgpaCalculator.runtimeconfig.json
+C:\Users\Hp\source\repos\MyCgpaCalculator\MyCgpaCalculator\bin\Debug\net5.0\MyCgpaCalculator.runtimeconfig.dev.json
+C:\Users\Hp\source\repos\MyCgpaCalculator\MyCgpaCalculator\bin\Debug\net5.0\MyCgpaCalculator.dll
+C:\Users\Hp\source\repos\MyCgpaCalculator\MyCgpaCalculator\bin\Debug\net5.0\ref\MyCgpaCalculator.dll
+C:\Users\Hp\source\repos\MyCgpaCalculator\MyCgpaCalculator\bin\Debug\net5.0\MyCgpaCalculator.pdb
+C:\Users\Hp\source\repos\MyCgpaCalculator\MyCgpaCalculator\obj\Debug\net5.0\MyCgpaCalculator.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\MyCgpaCalculator\MyCgpaCalculator\obj\Debug\net5.0\MyCgpaCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\MyCgpaCalculator\MyCgpaCalculator\obj\Debug\net5.0\MyCgpaCalculator.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\MyCgpaCalculator\MyCgpaCalculator\obj\Debug\net5.0\MyCgpaCalculator.AssemblyInfo.cs
+C:\Users\Hp\source\repos\MyCgpaCalculator\MyCgpaCalculator\obj\Debug\net5.0\MyCgpaCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\MyCgpaCalculator\MyCgpaCalculator\obj\Debug\net5.0\MyCgpaCalculator.dll
+C:\Users\Hp\source\repos\MyCgpaCalculator\MyCgpaCalculator\obj\Debug\net5.0\ref\MyCgpaCalculator.dll
+C:\Users\Hp\source\repos\MyCgpaCalculator\MyCgpaCalculator\obj\Debug\net5.0\MyCgpaCalculator.pdb
+C:\Users\Hp\source\repos\MyCgpaCalculator\MyCgpaCalculator\obj\Debug\net5.0\MyCgpaCalculator.genruntimeconfig.cache
