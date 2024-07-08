@@ -11,10 +11,10 @@ namespace MyCgpaCalculator
             double MAT, GST, BIO, PHY, CHM, BCH, MCB, total, cgpa;
             int matric, gradePoint;
 
-            Console.WriteLine("Enter your first namee:");
+            Console.WriteLine("Enter your first name:");
             firstName = Console.ReadLine();
 
-            Console.WriteLine("Enter your last namee:");
+            Console.WriteLine("Enter your last name:");
             lastName = Console.ReadLine();
 
             Console.WriteLine("Enter your Matric number:");
